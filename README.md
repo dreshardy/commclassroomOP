@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+int a = 1;
+int b = 2;
+print( a, b);
